@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/python-3.8-blue?style=flat-square&logo=python)
-![TensorFlow](https://img.shields.io/badge/tensorflow-2.2.2-green?style=flat-square&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/tensorflow-2.2.3-green?style=flat-square&logo=tensorflow)
 
 # Adaptive L2 Regularization in Person Re-Identification
 
@@ -29,7 +29,7 @@ conda create --yes --name TensorFlow2.2 python=3.8
 conda activate TensorFlow2.2
 conda install --yes cudatoolkit=10.1 cudnn=7.6 -c nvidia
 conda install --yes cython matplotlib numpy=1.18 pandas pydot scikit-learn
-pip install tensorflow==2.2.2
+pip install tensorflow==2.2.3
 pip install opencv-python
 pip install albumentations --no-binary imgaug,albumentations
 ```
@@ -76,15 +76,17 @@ python3 -u solution.py --dataset_name "Market1501" --backbone_model_name "ResNet
 
 ## Citation
 
-Please consider citing [this work](https://arxiv.org/abs/2007.07875) if it helps your research.
+Please consider citing [this work](https://ieeexplore.ieee.org/document/9412481) if it helps your research.
 
 ```
 @inproceedings{ni2021adaptive,
-  title={Adaptive L2 Regularization in Person Re-Identification},
   author={Ni, Xingyang and Fang, Liang and Huttunen, Heikki},
   booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
-  pages={9601--9607},
+  title={Adaptive L2 Regularization in Person Re-Identification},
   year={2021},
-  organization={IEEE}
+  volume={},
+  number={},
+  pages={9601-9607},
+  doi={10.1109/ICPR48806.2021.9412481}
 }
 ```
