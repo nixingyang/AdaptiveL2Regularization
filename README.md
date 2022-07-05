@@ -58,10 +58,10 @@ python3 -u solution.py --dataset_name "Market1501" --backbone_model_name "ResNet
 
 | Dataset | Backbone | mAP | Weights |
 | - | - | - |- |
-| Market1501 | ResNet50 | 88.3 | [Link](https://tuni-my.sharepoint.com/:u:/g/personal/xingyang_ni_tuni_fi/EbhPtp45rYFIlrOp4dfBUQEBY218NIYuXUTlax8SsqXqzA) |
-| DukeMTMC_reID | ResNet50 | 79.9 | [Link](https://tuni-my.sharepoint.com/:u:/g/personal/xingyang_ni_tuni_fi/EYinialkEvBFgc1mXpxRWWYBv7wHZzFCDmdM_4XR7k6tSA) |
-| MSMT17 | ResNet50 | 59.4 | [Link](https://tuni-my.sharepoint.com/:u:/g/personal/xingyang_ni_tuni_fi/EWeswQHZdLlOhzfSCaJm2MsB9DCa3aYomZ-pDG4Ww7Uoyw) |
-| MSMT17 | ResNet152 | 62.2 | [Link](https://tuni-my.sharepoint.com/:u:/g/personal/xingyang_ni_tuni_fi/EYrv4y--tXlOm9u4QJEX4uwB22oBtpJjoXPBr_Ry7xUbxg) |
+| Market1501 | ResNet50 | 88.3 | [Link](https://1drv.ms/u/s!Av-teFsyVR6WjmR-Jys9yzGLnVqm) |
+| DukeMTMC_reID | ResNet50 | 79.9 | [Link](https://1drv.ms/u/s!Av-teFsyVR6WjmOBpAY4nCdnTrH3) |
+| MSMT17 | ResNet50 | 59.4 | [Link](https://1drv.ms/u/s!Av-teFsyVR6WjmJzh8DHdFc5edDK) |
+| MSMT17 | ResNet152 | 62.2 | [Link](https://1drv.ms/u/s!Av-teFsyVR6WjmWPtZpcZkNSYtoi) |
 
 ## Acknowledgements
 
